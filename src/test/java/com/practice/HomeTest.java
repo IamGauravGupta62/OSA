@@ -7,6 +7,6 @@ public class HomeTest {
 	@Test
 	public void homeTest() {
 	System.out.println("homepage" );
-	System.out.println("homepage1");
+	System.out.println("Gaurav Home");
 	}
 }
